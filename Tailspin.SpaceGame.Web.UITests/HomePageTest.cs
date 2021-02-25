@@ -161,3 +161,6 @@ namespace UITests
         }
     }
 }
+public class HomePageTest
+{
+}

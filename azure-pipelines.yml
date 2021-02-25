@@ -5,7 +5,7 @@ variables:
   buildConfiguration: 'Release'
   releaseBranchName: 'release'
 
-#schedules:
+schedules:
 - cron: '0 3 * * *'
   displayName: Deploy every day at 3 A.M.
   branches:
